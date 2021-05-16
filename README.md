@@ -7,3 +7,5 @@ Roza has a partially completed dashboard that she needs to finish. She has a com
 ## Summery: 
 
 We created a bar, bubble and gauge chart to show the data for all the subjects individually. Each subject can be selected using the dropdown menu.
+
+https://j89livingston.github.io/plotly_deployment/
